@@ -1,0 +1,13 @@
+{
+    "modelType": "ImageClassifier",
+    "owner": "oceaster",
+    "name": "Playing-Card-Classifier",
+    "batch": 4,
+    "resize": [
+        224,
+        224
+    ],
+    "shuffle": true,
+    "lr": 0.001,
+    "weight_decay": 0.0001
+}
